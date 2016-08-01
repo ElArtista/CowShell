@@ -1,0 +1,5 @@
+# Vendor contents
+Vendor/*/*
+
+# Whitelist placeholders
+!**/.keep
