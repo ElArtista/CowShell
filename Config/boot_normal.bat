@@ -75,8 +75,6 @@ call "%ConEmuBaseDir%\SetEscChar.cmd"
 :: Print start screen
 ::
 cls
-echo.
 echo %ESC%[36m Cowshell v3.3 Copyright (c) 2015-2018 TheArtist %ESC%[33m
 type "%RESOURCES_ROOT%\motd.txt"
 echo %ESC%[39m
-
