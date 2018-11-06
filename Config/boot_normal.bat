@@ -76,7 +76,7 @@ call "%ConEmuBaseDir%\SetEscChar.cmd"
 ::
 cls
 echo.
-echo %ESC%[36m Cowshell v3.2 Copyright (c) 2015-2016 TheArtist %ESC%[33m
+echo %ESC%[36m Cowshell v3.3 Copyright (c) 2015-2018 TheArtist %ESC%[33m
 type "%RESOURCES_ROOT%\motd.txt"
 echo %ESC%[39m
 
